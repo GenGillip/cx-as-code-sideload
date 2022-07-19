@@ -1,6 +1,11 @@
 # Local .terraform directories
 **/.terraform/*
 
+# Local .terraform exacutables
+*.exe
+terraform
+*.zip
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
